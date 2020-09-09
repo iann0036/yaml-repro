@@ -1,0 +1,22 @@
+{
+  "name": "yaml-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://iann0036@github.com/iann0036/yaml-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iann0036/yaml-repro/issues"
+  },
+  "homepage": "https://github.com/iann0036/yaml-repro#readme",
+  "dependencies": {
+    "yaml": "^2.0.0-0"
+  }
+}
