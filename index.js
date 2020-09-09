@@ -17,14 +17,16 @@ console.log(String(cst));
 /*
 
 expected:
+---
 TopLevel:
     SecondLevel2:
         ThirdLevel2: Value2
     SecondLevel1:
         ThirdLevel1: Value1
-
+---
 
 actual:
+---
 TopLevel:
     SecondLevel1:
         ThirdLevel1: Value1
@@ -32,4 +34,5 @@ TopLevel:
         ThirdLevel2: Value2
 SecondLevel1:
         ThirdLevel1: Value1
+---
 */
